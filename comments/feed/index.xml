@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Alan M. Flores &#8211; Desarrollador Web	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://alanmflores.github.io/alanmflores-portfolio/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alanmflores.github.io/alanmflores-portfolio</link>
 	<description></description>
 	<lastBuildDate>Tue, 30 Apr 2024 04:37:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentario en ¡Hola, mundo! por Un comentarista de WordPress		</title>
-		<link>/2024/04/30/hola-mundo/#comment-1</link>
+		<link>https://alanmflores.github.io/alanmflores-portfolio/2024/04/30/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Tue, 30 Apr 2024 04:37:20 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://alanmflores.github.io/alanmflores-portfolio/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, esto es un comentario.
 Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
